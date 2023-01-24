@@ -1,0 +1,2 @@
+A game where calculated risk is being tested. 
+Each player rolls the dice and makes a decision to hold the amount rolled (i.e If the result is 3 then 3 points will be added) or continue by potentially adding more points. The only issue is that if the dice rolled is a 1, then the player losses all the points except for the amount held on before the dice roll of a 1. The first player to reach 100 wins the game.
